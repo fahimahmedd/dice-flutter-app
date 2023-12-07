@@ -1,0 +1,4 @@
+#Tue Dec 05 20:53:52 BDT 2023
+base.0=H\:\\Udemy Project\\dice_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
